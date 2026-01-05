@@ -3,5 +3,5 @@ a relay based off of Benn Jordan's video  https://www.youtube.com/watch?v=W_F4rE
 *****𝙏𝙝𝙚 𝙂𝙤𝙖𝙡******
 Create a Meshtastic relay node for my area with self sustainability
 
-Why am i making this
+Why am i making this,
 Im bored
